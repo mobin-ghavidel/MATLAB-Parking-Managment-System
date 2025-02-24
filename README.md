@@ -1,8 +1,8 @@
-Parking Management System - A Smart Parking Assistant
+#Parking Management System - A Smart Parking Assistant
 
 The Parking Management System is an interactive and user-friendly MATLAB-based application that streamlines the process of finding and reserving parking spots. Designed with efficiency in mind, the system reads data from parking spot availability, vehicle details, and pricing information to help users select the most suitable parking space.
 
-Key Features:
+#Key Features:
 
     Dynamic Spot Selection: Users can specify their vehicle size and receive tailored parking options.
     Preference-Based Filtering: Choose a spot based on affordability, security (CCTV monitoring), or cleanliness (covered spaces).
