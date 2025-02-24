@@ -1,0 +1,4 @@
+size,static_price,price_per_day
+normal,100,20
+covered,150,30
+cctv,200,40

@@ -1,0 +1,12 @@
+Files Path For Matlab Code:
+"C:\Users\Homelan\Desktop\ParkingSystem\examplefile.txt"
+To Run The Program Extract The RAR File To Your Desktop And Run "ParkingSystem.m".
+___________________________________________________________________________________________________
+Note1:"ParkingSystem" Folder Must Be In Your Desktop As It Is Mentioned In Files Path.             |
+___________________________________________________________________________________________________|
+Note2:The Command Window From MATLAB App Is Designed As a Console Meaning That You Can Watch Any   |
+Changes Or Updates In Your Program Within Your Command Window. You Can Either Check Your txt Files |
+For Any Updates.                                                                                   |    
+___________________________________________________________________________________________________|
+Note3:The Program Might Struggle With Processings On Your First Run. Please Be Patient Please.     |
+___________________________________________________________________________________________________|
