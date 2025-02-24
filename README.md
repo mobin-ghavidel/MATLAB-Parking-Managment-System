@@ -10,4 +10,4 @@ The Parking Management System is an interactive and user-friendly MATLAB-based a
   -  Interactive UI: Uses pop-up menus and UI elements for a smooth and intuitive experience.
   -  Automated Status Updates: Once a spot is selected, the system updates the parking database to reflect availability.
 
-This project ensures convenience, efficiency, and customization for an optimal parking experience. 🚗🅿️
+This project ensures convenience, efficiency, and customization for an optimal parking experience and it is a good example of how datas are read, received and updated. 🚗🅿️
